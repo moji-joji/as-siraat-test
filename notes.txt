@@ -1,0 +1,6 @@
+Difficulty stars
+Progress bar with live score
+Correct answer feedback
+Next question
+Timer 45 secs
+

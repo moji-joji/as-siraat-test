@@ -1,0 +1,23 @@
+/* .btn {
+  width: 40%;
+  border: none;
+  padding: 5px 10px;
+  font-size: 2rem;
+} */
+.widthcontrol {
+  width: 100%;
+  text-align: left;
+}
+
+.red {
+  background-color: red;
+  text: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.white {
+  background-color: white;
+}

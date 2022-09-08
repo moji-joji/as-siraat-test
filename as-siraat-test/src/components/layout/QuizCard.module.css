@@ -1,0 +1,16 @@
+.card {
+  /* width: fit-content; */
+  width: 600px;
+  overflow-wrap: wrap;
+  height: auto;
+  background-color: white;
+  box-shadow: 10px 14px 28px 0px rgba(0, 0, 0, 0.61);
+  -webkit-box-shadow: 10px 14px 28px 0px rgba(0, 0, 0, 0.61);
+  -moz-box-shadow: 10px 14px 28px 0px rgba(0, 0, 0, 0.61);
+  margin: 0 auto;
+  margin-top: 20vh;
+  border-radius: 15px;
+  padding: 20px;
+  /* overflow: auto;
+   */
+}

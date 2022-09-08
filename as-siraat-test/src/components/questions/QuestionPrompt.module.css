@@ -1,0 +1,26 @@
+.category {
+  color: gray;
+  font-size: 16px;
+  /* margin-top: 2rem; */
+}
+
+.question-heading {
+  font-size: 2rem;
+  font-weight: bold;
+  /* margin-top: 2rem;
+     */
+  margin: 0px;
+  /* margin-top: 2rem; */
+}
+
+.heading-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.question {
+  width: 70%;
+  /* overflow: wrap;
+  overflow-wrap: normal; */
+  text-wrap: w;
+}
